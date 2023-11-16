@@ -18,4 +18,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphexator&layout=compact&hide_border=true&title_color=ffffff&icon_color=713395&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
   <img src="https://streak-stats.demolab.com?user=Sphexator&hide_border=true&background=EBEBEB00&stroke=713395&ring=713395&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=713395">
+  <img src="https://raw.githubusercontent.com/sphexator/sphexator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </div>
